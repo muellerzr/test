@@ -4,8 +4,7 @@ body:
   - type: markdown
     attributes: 
       value: | 
-      Thanks for taking the time to submit a bug report! 🐛
-      If this is not a bug related to the Accelerate library directly, but instead a general question about your code or the library specifically, please use the [forums](https://discuss.huggingface.co/c/accelerate/18).;
+      Thanks for taking the time to submit a bug report! 🐛 If this is not a bug related to the Accelerate library directly, but instead a general question about your code or the library specifically, please use the [forums](https://discuss.huggingface.co/c/accelerate/18).
 
   - type: textarea
     id: system-info
